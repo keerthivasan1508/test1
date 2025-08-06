@@ -1,0 +1,8 @@
+packages:
+  - package: dbt-labs/dbt_utils
+    version: 1.1.0
+  - package: dbt-labs/codegen
+    version: 0.9.0
+  - git: https://github.com/bcodell/dbt-aql
+    revision: 4af91d150e41440ae97007e0677d3be228a5b07c
+sha1_hash: b5ef2319bbb65ec8b734d8d5013000258ded9e5c
